@@ -1,0 +1,13 @@
+{
+  "name": "segundo-proyecto",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
